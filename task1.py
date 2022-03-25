@@ -1,4 +1,4 @@
-import itertools
+#import itertools
 
 
 def odd_nums(max):
